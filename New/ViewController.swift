@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("master branch")
+        print("1st commit master branch")
+
 
     }
 
